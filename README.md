@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:1e3a5f&height=140&section=header&text=Wren%20Daniel%20Tulio&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=CS%20Student%20%7C%20Builder%20%7C%20Philippines&descAlignY=68&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:1e3a5f&height=140&section=header&text=Wren%20Daniel%20C.%20Tulio&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=CS%20Student%20%7C%20Builder%20%7C%20Philippines&descAlignY=68&descSize=16&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=First-year+CS+%40+BPSU;Building+things+that+matter;Learning+what+it+means+to+own+a+codebase;IoT+%7C+Software+Dev+%7C+Security)](https://git.io/typing-svg)
@@ -23,20 +23,6 @@ public class Wren {
     String motto       = "Not just how to build, but why things work.";
 }
 ```
-
----
-
-<!-- STATS ROW -->
-<div align="center">
-
-### `> stats`
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=WDCT-Wren&show_icons=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=14b8a6&text_color=e2e8f0&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WDCT-Wren&layout=compact&theme=transparent&hide_border=true&title_color=14b8a6&text_color=e2e8f0&bg_color=0d1117" />
-
-</div>
-
----
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
@@ -76,7 +62,6 @@ public class Wren {
 
 **Hardware & IoT**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 
 ---
 
