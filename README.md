@@ -70,8 +70,20 @@ public class Wren {
 
 <div align="center">
 
-[![EntroPass](https://github-readme-stats.vercel.app/api/pin/?username=WDCT-Wren&repo=EntroPass&theme=transparent&hide_border=true&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&bg_color=0d1117)](https://github.com/WDCT-Wren/EntroPass)
-[![SeraphIV](https://github-readme-stats.vercel.app/api/pin/?username=WDCT-Wren&repo=SeraphIV&theme=transparent&hide_border=true&title_color=14b8a6&text_color=e2e8f0&icon_color=14b8a6&bg_color=0d1117)](https://github.com/WDCT-Wren/SeraphIV)
+<a href="https://github.com/WDCT-Wren/EntroPass">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/WDCT-Wren/EntroPass.svg?theme=dark&fullname=">
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-card.dev/repos/WDCT-Wren/EntroPass.svg?fullname=">
+    <img alt="WDCT-Wren/SeraphIV - GitHub" src="https://gh-card.dev/repos/WDCT-Wren/EntroPass.svg?fullname=">
+  </picture>
+</a>
+<a href="https://github.com/WDCT-Wren/SeraphIV">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/WDCT-Wren/SeraphIV.svg?theme=dark&fullname=">
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-card.dev/repos/WDCT-Wren/SeraphIV.svg?fullname=">
+    <img alt="WDCT-Wren/SeraphIV - GitHub" src="https://gh-card.dev/repos/WDCT-Wren/SeraphIV.svg?fullname=">
+  </picture>
+</a>
 
 </div>
 
