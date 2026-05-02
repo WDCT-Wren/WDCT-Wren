@@ -25,7 +25,7 @@ public class Wren {
 ```
 
 <!-- ACTIVITY GRAPH -->
-<div align="center">
+<div>
 
 ### `> activity`
 
