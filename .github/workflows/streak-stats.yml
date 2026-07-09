@@ -18,9 +18,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate streak stats
-        uses: WDCT-Wren/streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=dark&border_radius=5&exclude_days=Sun%2CSat&ring=2AB226&fire=2AB226&currStreakLabel=2AB226&border=2AB226&stroke=2AB226
+          options: user=WDCT-Wren&theme=dark&border_radius=5&exclude_days=Sun%2CSat&ring=2AB226&fire=2AB226&currStreakLabel=2AB226&border=2AB226&stroke=2AB226
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
