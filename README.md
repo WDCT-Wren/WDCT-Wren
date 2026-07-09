@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:1e3a5f&height=140&section=header&text=Wren%20Daniel%20C.%20Tulio&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=CS%20Student%20%7C%20Builder%20%7C%20Philippines&descAlignY=68&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5418,100:2AB226&height=140&section=header&text=Wren%20Daniel%20C.%20Tulio&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=CS%20Student%20%7C%20Builder%20%7C%20Philippines&descAlignY=68&descSize=16&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Second-year+CS+%40+BPSU;Building+things+that+matter;Learning+what+it+means+to+own+a+codebase;IoT+%7C+Software+Dev+%7C+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=2AB226&center=true&vCenter=true&width=500&lines=Second-year+CS+%40+BPSU;IoT+%7C+Embedded+Systems+%7C+Software+Dev;Building+things+that+matter;Learning+what+it+means+to+own+a+codebase)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,13 +13,13 @@
 <!-- ABOUT -->
 ### `> who am I?`
 
-```java
-public class Wren {
+```cpp
+struct Wren {
     String university  = "Bataan Peninsula State University";
     String degree      = "BS Computer Science (2025–2029)";
     String location     = "Philippines 🇵🇭";
-    String[] interests  = {"IoT", "Software Development", "Security"};
-    String currentlyWorkingOn = "Embedded systems roadmap: C++ → Arduino → connectivity";
+    String interests[3]  = {"IoT", "Embedded Systems", "Software Development"};
+    String currentlyWorkingOn = "Embedded systems roadmap: C++ → Arduino/ESP32 → connectivity";
     String motto        = "Not just how to build, but why things work.";
 }
 ```
@@ -29,22 +29,26 @@ public class Wren {
 
 ### `> activity`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WDCT-Wren&theme=react-dark&hide_border=true&color=14b8a6&line=0e7490&point=ffffff&area=true&area_color=0e749020)](https://github.com/WDCT-Wren)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WDCT-Wren&theme=react-dark&color=2AB226&hide_border=false&border_radius=5&border_color=2AB226&line=2AB226&point=ffffff&area=true&area_color=0e749020)](https://github.com/WDCT-Wren)
 
 </div>
 
 ---
 
 <!-- STREAK + CONTRIBUTIONS (self-hosted via GitHub Actions — see /.github/workflows/readme-stats.yml) -->
-<div align="center">
+<div>
 
 ### `> streak`
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+</div>
 
 ### `> contributions`
 
-[![GitHub Stats](./profile/stats.svg)](https://github.com/WDCT-Wren)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 </div>
 
@@ -55,9 +59,9 @@ public class Wren {
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -117,10 +121,9 @@ public class Wren {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wren-daniel-tulio)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WDCT-Wren)
 [![Email](https://img.shields.io/badge/Email-0e7490?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Wdctulio25@bpsu.edu.ph)
 
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0e7490&height=100&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5418,100:2AB226&height=100&section=footer&animation=fadeIn"/>
