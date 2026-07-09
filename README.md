@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:1e3a5f&height=140&section=header&text=Wren%20Daniel%20C.%20Tulio&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=CS%20Student%20%7C%20Builder%20%7C%20Philippines&descAlignY=68&descSize=16&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=First-year+CS+%40+BPSU;Building+things+that+matter;Learning+what+it+means+to+own+a+codebase;IoT+%7C+Software+Dev+%7C+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Second-year+CS+%40+BPSU;Building+things+that+matter;Learning+what+it+means+to+own+a+codebase;IoT+%7C+Software+Dev+%7C+Security)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,10 +17,10 @@
 public class Wren {
     String university  = "Bataan Peninsula State University";
     String degree      = "BS Computer Science (2025–2029)";
-    String location    = "Philippines 🇵🇭";
-    String[] interests = {"IoT", "Software Development", "Security"};
-    String currentlyWorkingOn  = "Building EntroPass — a JavaFX password manager";
-    String motto       = "Not just how to build, but why things work.";
+    String location     = "Philippines 🇵🇭";
+    String[] interests  = {"IoT", "Software Development", "Security"};
+    String currentlyWorkingOn = "Embedded systems roadmap: C++ → Arduino → connectivity";
+    String motto        = "Not just how to build, but why things work.";
 }
 ```
 
@@ -35,10 +35,12 @@ public class Wren {
 
 ---
 
-<!-- STREAK -->
+<!-- STREAK (self-hosted via GitHub Actions — see /.github/workflows/streak-stats.yml) -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=WDCT-Wren&theme=transparent&hide_border=true&ring=14b8a6&fire=0e7490&currStreakLabel=14b8a6&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=64748b)](https://github.com/WDCT-Wren)
+### `> streak`
+
+[![GitHub Streak](./profile/streak.svg)](https://github.com/WDCT-Wren)
 
 </div>
 
@@ -51,6 +53,7 @@ public class Wren {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -79,7 +82,7 @@ public class Wren {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/WDCT-Wren/EntroPass.svg?theme=dark&fullname=">
     <source media="(prefers-color-scheme: light)" srcset="https://gh-card.dev/repos/WDCT-Wren/EntroPass.svg?fullname=">
-    <img alt="WDCT-Wren/SeraphIV - GitHub" src="https://gh-card.dev/repos/WDCT-Wren/EntroPass.svg?fullname=">
+    <img alt="WDCT-Wren/EntroPass - GitHub" src="https://gh-card.dev/repos/WDCT-Wren/EntroPass.svg?fullname=">
   </picture>
 </a>
 <a href="https://github.com/WDCT-Wren/SeraphIV">
