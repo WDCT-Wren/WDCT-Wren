@@ -40,7 +40,7 @@ public class Wren {
 
 ### `> streak`
 
-[![GitHub Streak](./profile/streak.svg)](https://github.com/WDCT-Wren)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ### `> contributions`
 
