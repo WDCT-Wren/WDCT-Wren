@@ -35,12 +35,16 @@ public class Wren {
 
 ---
 
-<!-- STREAK (self-hosted via GitHub Actions — see /.github/workflows/streak-stats.yml) -->
+<!-- STREAK + CONTRIBUTIONS (self-hosted via GitHub Actions — see /.github/workflows/readme-stats.yml) -->
 <div align="center">
 
 ### `> streak`
 
 [![GitHub Streak](./profile/streak.svg)](https://github.com/WDCT-Wren)
+
+### `> contributions`
+
+[![GitHub Stats](./profile/stats.svg)](https://github.com/WDCT-Wren)
 
 </div>
 
