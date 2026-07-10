@@ -14,14 +14,15 @@
 ### `> who am I?`
 
 ```cpp
-struct Wren {
+struct Wren
+{
     String university  = "Bataan Peninsula State University";
     String degree      = "BS Computer Science (2025–2029)";
     String location     = "Philippines 🇵🇭";
     String interests[3]  = {"IoT", "Embedded Systems", "Software Development"};
     String currentlyWorkingOn = "Embedded systems roadmap: C++ → Arduino/ESP32 → connectivity";
     String motto        = "Not just how to build, but why things work.";
-}
+};
 ```
 
 <!-- ACTIVITY GRAPH -->
