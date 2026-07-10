@@ -25,6 +25,8 @@ struct Wren
 };
 ```
 
+---
+
 <!-- ACTIVITY GRAPH -->
 <div>
 
@@ -32,6 +34,12 @@ struct Wren
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WDCT-Wren&theme=react-dark&color=2AB226&hide_border=false&border_radius=5&border_color=2AB226&line=2AB226&point=ffffff&area=true&area_color=0e749020)](https://github.com/WDCT-Wren)
 
+</div>
+
+### `> contributions`
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -45,11 +53,6 @@ struct Wren
     <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </div>
 
-### `> contributions`
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 </div>
 
