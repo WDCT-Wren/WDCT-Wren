@@ -39,7 +39,7 @@ struct Wren
 ### `> contributions`
 
 <div align="center">
-    <img src="./profile/profile-night-green.svg" alt="Green Night contribution graph" />
+    <img src="./profile-3d-contrib/profile-night-green.svg" alt="Green Night contribution graph" />
 </div>
 
 ---
