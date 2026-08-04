@@ -39,7 +39,7 @@ struct Wren
 ### `> contributions`
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+    <img src="./profile/profile-night-green.svg" alt="Green Night contribution graph" />
 </div>
 
 ---
