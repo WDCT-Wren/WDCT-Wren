@@ -32,12 +32,6 @@ struct Wren
 
 ### `> activity`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WDCT-Wren&theme=react-dark&color=2AB226&hide_border=false&border_radius=5&border_color=2AB226&line=2AB226&point=ffffff&area=true&area_color=0e749020)](https://github.com/WDCT-Wren)
-
-</div>
-
-### `> contributions`
-
 <div align="center">
     <img src="./profile-3d-contrib/profile-night-green.svg" alt="Green Night contribution graph" />
 </div>
