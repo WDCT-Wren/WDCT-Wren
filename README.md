@@ -84,22 +84,34 @@ struct Wren
 
 <div align="center">
 
-<a href="https://github.com/WDCT-Wren/EntroPass">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/WDCT-Wren/EntroPass.svg?theme=dark&fullname=">
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-card.dev/repos/WDCT-Wren/EntroPass.svg?fullname=">
-    <img alt="WDCT-Wren/EntroPass - GitHub" src="https://gh-card.dev/repos/WDCT-Wren/EntroPass.svg?fullname=">
-  </picture>
-</a>
-<a href="https://github.com/WDCT-Wren/SeraphIV">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/WDCT-Wren/SeraphIV.svg?theme=dark&fullname=">
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-card.dev/repos/WDCT-Wren/SeraphIV.svg?fullname=">
-    <img alt="WDCT-Wren/SeraphIV - GitHub" src="https://gh-card.dev/repos/WDCT-Wren/SeraphIV.svg?fullname=">
-  </picture>
-</a>
+### Projects
 
-![GitHub Repo Card](https://githubcard.com/CodeKheb/HelloWorld-CodeShare.svg)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/WDCT-Wren/SeraphIV"><b>Project SeraphIV</b></a><br/>
+      One line on what it does and why it matters.<br/>
+      <sub>Java · JavaFX</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/WDCT-Wren/Entropass"><b>EntroPass</b></a><br/>
+      One line on what it does and why it matters.<br/>
+      <sub>C++ · Embedded</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/CodeKheb/HelloWorld-CodeShare"><b>CodeShare</b></a><br/>
+      One line on what it does and why it matters.<br/>
+      <sub>Python · Arduino</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/WDCT-Wren/Krestel"><b>Krestel</b></a><br/>
+      One line on what it does and why it matters.<br/>
+      <sub>TypeScript</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
