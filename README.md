@@ -80,35 +80,35 @@ struct Wren
 ---
 
 <!-- PROJECTS -->
-### `> projects`
-
-<div align="center">
-
-### Projects
+<h2 align="center">Projects</h2>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/WDCT-Wren/SeraphIV"><b>Project SeraphIV</b></a><br/>
-      One line on what it does and why it matters.<br/>
-      <sub>Java · JavaFX</sub>
+    <td align="center" width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/WDCT-Wren/REPO-1">Krestel</a></h3>
+      Non-invasive electricity monitor. An ESP32 reads the meter's pulse LED and serves a live usage and cost dashboard.<br/>
+      <sub>ESP32 · C++ · JavaScript</sub>
+      <br/><br/>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/WDCT-Wren/Entropass"><b>EntroPass</b></a><br/>
-      One line on what it does and why it matters.<br/>
-      <sub>C++ · Embedded</sub>
+    <td align="center" width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/WDCT-Wren/REPO-2">EntroPass</a></h3>
+      JavaFX desktop password manager with a local encrypted vault (AES-256-GCM, PBKDF2, BCrypt). Shipped v1.0.1.<br/>
+      <sub>Java · JavaFX · SQLite</sub>
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/CodeKheb/HelloWorld-CodeShare"><b>CodeShare</b></a><br/>
-      One line on what it does and why it matters.<br/>
-      <sub>Python · Arduino</sub>
+    <td align="center" width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/WDCT-Wren/REPO-3">SeraphIV</a></h3>
+      Arduino IV fluid monitor. A load cell tracks remaining volume and sends SMS alerts to the nurse at 30%, 15%, and 5%.<br/>
+      <sub>Arduino Mega · HX711 · SIM900</sub>
+      <br/><br/>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/WDCT-Wren/Krestel"><b>Krestel</b></a><br/>
-      One line on what it does and why it matters.<br/>
-      <sub>TypeScript</sub>
+    <td align="center" width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/WDCT-Wren/REPO-4">CodeShare</a></h3>
+      Real-time team chat that surfaces GitHub pushes, PRs, and commit diffs in the conversation. Built in 5 days.<br/>
+      <sub>Node.js · Socket.io · PostgreSQL</sub>
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -121,7 +121,7 @@ struct Wren
 ### `> certifications`
 
 - 🏅 **IT Specialist — Java** · Pearson / Certiport · 2026
-- 🏅 **IC3 Digital Literacy** · Certiport · 2025
+- 🏅 **IC3 Digital Literacy** · Certiport · 2026
 
 ---
 
